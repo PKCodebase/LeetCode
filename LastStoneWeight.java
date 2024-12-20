@@ -21,11 +21,7 @@ public class LastStoneWeight {
                 pq.add(nstone);
             }
         }
-        if(pq.isEmpty()){
-            return 0;
-        }else{
-            return pq.remove();
-        }
+        return pq.isEmpty() ? 0 : pq.remove();
     }
 
     public static void main(String[] args) {

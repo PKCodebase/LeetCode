@@ -3,7 +3,9 @@ class ListNode {
 
     int val;
     ListNode next;
-    ListNode() {}
+    ListNode() {
+
+    }
     ListNode(int val) {
         this.val = val;
     }
@@ -37,6 +39,5 @@ public class DeleteDuplicateLinkedList {
             System.out.println(result.val);
             result = result.next;
         }
-
     }
 }

@@ -16,7 +16,7 @@ public class FirstUniqueCharacter {
     }
 
     public static void main(String[] args) {
-        String s = "leetcode";
+        String s = "eeltcode";
         FirstUniqueCharacter firstUniqueCharacter = new FirstUniqueCharacter();
         int result = firstUniqueCharacter.firstUniqChar(s);
         System.out.println(result);

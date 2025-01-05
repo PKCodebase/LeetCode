@@ -36,4 +36,5 @@ public class ShiftedLetter2381 {
         String result = shiftedLetter2381.shiftingLetters(s,shifts);
         System.out.println(result);
     }
+
 }

@@ -1,7 +1,6 @@
 package com.leetcode;
 
 public class MaximumScore1422 {
-    //find all the ones
     public int maxScore(String s) {
         int ones = 0;
         int n = s.length();

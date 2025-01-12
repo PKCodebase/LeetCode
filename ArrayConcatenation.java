@@ -12,7 +12,6 @@ public class ArrayConcatenation {
             index++;
         }
         return answer;
-
     }
     public static void main(String[] args) {
         int [] nums = {1,2,1};

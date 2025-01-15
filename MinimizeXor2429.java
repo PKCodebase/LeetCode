@@ -1,3 +1,5 @@
+package com.leetcode;
+
 public class MinimizeXor2429 {
     public int minimizeXor(int num1, int num2) {
         int setBits = Integer.bitCount(num2);

@@ -42,5 +42,4 @@ public class WordSubsets {
         List<String> result = wordSubsets.wordSubsets(words1,words2);
         System.out.println(result);
     }
-
 }

@@ -20,7 +20,6 @@ public class TwoSum {
                 }else{
                     start++;
                 }
-
             }
             return ans;
         }

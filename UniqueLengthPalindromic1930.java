@@ -27,7 +27,6 @@ public class UniqueLengthPalindromic1930 {
             count += set1.size();
         }
         return count;
-
     }
     public static void main(String[] args) {
         String s = "aabca";

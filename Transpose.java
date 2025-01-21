@@ -12,7 +12,6 @@ public class Transpose {
         }
         return transpose;
     }
-
     public static void main(String[] args) {
         int[][] matrix = {{1,2,3},{4,5,6},{7,8,9}};
         Transpose transpose = new Transpose();

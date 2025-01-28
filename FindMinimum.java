@@ -21,7 +21,6 @@ public class FindMinimum {
                 }else{
                     end = mid-1;
                 }
-
             }
             return -1;
         }

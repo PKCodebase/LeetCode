@@ -6,7 +6,7 @@ import java.util.List;
 
 public class ArrayFormOfInteger {
 
-        public List<Integer> addToArrayForm(int[] num, int k) {
+    public List<Integer> addToArrayForm(int[] num, int k) {
             List<Integer> ans = new ArrayList<>();
             int p = num.length-1;
 

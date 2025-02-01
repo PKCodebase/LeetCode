@@ -3,7 +3,6 @@ package com.leetcode;
 public class BulbSwitcher {
         public int bulbSwitch(int n) {
             int count = 0;
-
             int i = 1;
             while(i*i<=n){
                 count++;

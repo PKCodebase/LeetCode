@@ -9,7 +9,6 @@ public class BoatToSavePeople {
             int end = people.length-1;
 
             int count = 0;
-
             while(start<=end){
                 if(people[start] + people[end] <= limit){
                     start++;

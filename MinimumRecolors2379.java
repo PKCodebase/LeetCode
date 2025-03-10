@@ -9,8 +9,12 @@ public class MinimumRecolors2379 {
         int res = w;
         int n = blocks.length();
         for(int i=1;i<(n-k+1);i++){
-            if(blocks.charAt(i-1) == 'W' ) w--;
-            if(blocks.charAt(i+k-1)=='W') w++;
+            if(blocks.charAt(i-1) == 'W' ){
+                w--;
+            }
+            if(blocks.charAt(i+k-1)=='W'){
+                w++;
+            }
             res = Math.min(res,w);
         }
         return res;

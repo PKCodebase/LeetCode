@@ -2,10 +2,7 @@ LeetCode Problems Repository 🚀:
 
 Welcome to the LeetCode Problems Repository! This repository contains solutions to various LeetCode problems, implemented in Java. The goal of this repository is to help developers and competitive programmers improve their problem-solving skills.
 
-🛠️ Technologies Used:
-
-Java 
-
+🛠️ Technologies Used:Java 
 
 🔥 Topics Covered:
 

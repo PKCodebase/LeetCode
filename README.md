@@ -2,28 +2,28 @@ LeetCode Problems Repository 🚀:
 
 Welcome to the LeetCode Problems Repository! This repository contains solutions to various LeetCode problems, implemented in Java. The goal of this repository is to help developers and competitive programmers improve their problem-solving skills.
 
-🛠️ Technologies Used
-Java ☕
+🛠️ Technologies Used:
+
+Java 
 
 
-🔥 Topics Covered
-This repository includes solutions for problems from different categories:
+🔥 Topics Covered:
 
-Arrays & Strings 🧩
+Arrays & Strings 
 
-Linked Lists 🔗
+Linked Lists 
 
-Recursion & Backtracking 🔄
+Recursion & Backtracking 
 
-Sorting & Searching 🔎
+Sorting & Searching 
 
-Dynamic Programming 📈
+Dynamic Programming 
 
-Graphs & Trees 🌳
+Graphs & Trees 
 
-Bit Manipulation 🧮
+Bit Manipulation 
 
-Mathematical Problems ➗
+Mathematical Problems 
 
 📜 How to Use This Repository
 
